@@ -1,0 +1,1 @@
+bootstrap = framework para desenvolvimento responsivo (não perde a forma mesmo que abra em celular/tablet ou pc)
